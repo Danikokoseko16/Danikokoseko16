@@ -1,16 +1,14 @@
-### Hi there 👋
+### Perfil aesthetic 🍒✨
 
-<!--
 **Danikokoseko16/Danikokoseko16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Daniela, e aqui estão alguns tópicos sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante da terceira série na escola Tozzi,
+- Cursando o Alura,
+-  Relações Internacionais
+
+### Você pode entrar em contato comigo 📧
+
+fala.comigo.ja@gmail.com
+@Danibertazzo0
